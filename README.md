@@ -1,4 +1,4 @@
-# SockPulse App
+# StockPulse App
 
 ![Portfolio Analysis](https://img.shields.io/badge/ML-Powered-green.svg) ![Contributions Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg) ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
